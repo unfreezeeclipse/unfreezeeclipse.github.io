@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 ---
 
-## Stop killing your IDE!
-
-### Does Eclipse drive you crazy?
+## Does Eclipse drive you crazy?
 
 Are you tired of Eclipse hanging all the time?
 
@@ -16,7 +14,7 @@ Do you wonder what is Eclipse building for so long?
 
 How many hours a day do you waste waiting for Eclipse to respond?
 
-### It's time to make Eclipse work for you... not vice versa
+## It's time to make Eclipse work for you!
 
 Yes. Eclipse can work for you.
 
@@ -26,7 +24,7 @@ Eclipse is that popular not just because it is free (like in beer).
 
 It is popular because it does the job.
 
-### Coming Soon...
+## Coming Soon...
 
 I am [Kaloyan Raev](https://about.me/kaloyanraev). I've been using Eclipse for the last 13 years. I've been developing Eclipse plugins for the last 10 years. All the time I had a great experience with Eclipse.
 
@@ -35,5 +33,3 @@ I am working on a free (like in beer) guide that will teach you how to tune the 
 Want to learn from me? **Enter your information below to receive the guide, straight to your inbox:**
 
 {% include subscription-form.html %}
-
-
