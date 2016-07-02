@@ -30,6 +30,8 @@ I am [Kaloyan Raev](https://about.me/kaloyanraev). I've been using Eclipse for t
 
 I am working on a free (like in beer) guide that will teach you how to tune the Eclipse performance. So Eclipse starts working for you.
 
-Want to learn from me? **Enter your information below to receive the guide, straight to your inbox:**
+Want to learn from me?
+
+**Enter your information below to receive the guide, straight to your inbox:**
 
 {% include subscription-form.html %}
