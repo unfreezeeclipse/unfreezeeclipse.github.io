@@ -3,7 +3,7 @@ layout: post
 title:  "How SSD Improves Eclipse Startup Time"
 date:   2016-07-02 11:30:00 +0300
 ---
-Solid State Drives (SSD) have been around for years. They have already proved to be faster than the classic Hard Disk Drives (HDD). There are many articles explaining why. Here is a good one in case you want to get a basic understanding.
+[Solid State Drives](https://en.wikipedia.org/wiki/Solid-state_drive) (SSD) have been around for years. They have already proved to be faster than the classic [Hard Disk Drives](https://en.wikipedia.org/wiki/Hard_disk_drive) (HDD). There are many articles explaining why. Here is [a good one](http://www.storagereview.com/ssd_vs_hdd) in case you want to get a basic understanding.
 
 You may ask yourself what advantage does SSD gives over HDD for Eclipse in particular?
 
