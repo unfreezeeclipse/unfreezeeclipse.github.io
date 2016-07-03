@@ -40,8 +40,8 @@ The setup is not as perfect as a real performance lab, but good enough for this 
 
 | Installation                  | SSD     | HDD     | Ratio |
 |:----------------------------- | -------:| -------:| -----:|
-| Eclipse Java                  | 9.97 s  | 24.60 s | 2.47x |
-| Eclipse Java EE + JBoss Tools | 12.11 s | 30.43 s | 2.51x |
+| Eclipse Java                  | 9.97&nbsp;s  | 24.60&nbsp;s | 2.47x |
+| Eclipse Java EE + JBoss Tools | 12.11&nbsp;s | 30.43&nbsp;s | 2.51x |
 
 ## Conclusion
 
