@@ -17,3 +17,7 @@ twitter_username: kaloyanraev
 
 # Build settings
 markdown: kramdown
+
+# Google Analytics
+google_analytics: UA-79453153-1
+
