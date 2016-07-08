@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How SSD Improves the Eclipse Workspace"
-date:   2016-07-03 10:30:00 +0300
+layout:   post
+title:    "How SSD Improves the Eclipse Workspace"
+date:     2016-07-03 10:30:00 +0300
+comments: true
 ---
 
 In a [previous post](post-url-link) we have seen that SSD drives improve the Eclipse startup time.
