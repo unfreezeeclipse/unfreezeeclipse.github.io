@@ -21,3 +21,13 @@ markdown: kramdown
 # Google Analytics
 google_analytics: UA-79453153-1
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      permalink: /articles/:title/
+
