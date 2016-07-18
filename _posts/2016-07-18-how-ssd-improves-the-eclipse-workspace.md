@@ -1,9 +1,9 @@
 ---
 title: "How SSD Improves the Eclipse Workspace"
-date:  2016-07-03 10:30:00 +0300
+date:  2016-07-18 08:00:00 +0300
 ---
 
-In a [previous post](post-url-link) we have seen that SSD drives improve the Eclipse startup time.
+In a [previous post]({% post_url 2016-07-11-how-ssd-improves-the-eclipse-startup-time %}) we have seen that SSD drives improve the Eclipse startup time.
 
 Can we expect similar performance boost for other tasks in Eclipse? Let's have a look!
 
@@ -21,9 +21,9 @@ Again, I used my 3+ years old Lenovo T430 laptop. It runs Fedora 24 and has:
 I had two Eclipse IDE setups:
 
 1. An Eclipse Che Development Environment setup as described in the [Eclipse Che documentation](https://eclipse-che.readme.io/v4.4/docs/setup-che-workspace#author-extension-using-the-eclipse-ide). The workspace included the complete Che source code and dependencies: 71,146 items, totalling 1.7 GB.
-2. An Eclipse for PHP Developers. The workspace included the Magento Community Edition: 62,878 items, totalling 488.4 MB.
+2. An Eclipse IDE for PHP Developers. The workspace included the Magento Community Edition: 62,878 items, totalling 488.4 MB.
 
-Both installations had a separate copy on the SSD and on the HDD. I also included the Oracle JRE 1.8.0_92 in the Eclipse installation. The HHD copy of the Eclipse Che Development Environment used a local Maven repository on the HDD.
+Both installations had a separate copy on the SSD and on the HDD. I also included the Oracle JRE 1.8.0_92 in the Eclipse installation. The HDD copy of the Eclipse Che Development Environment used a local Maven repository on the HDD.
 
 These extra configurations aimed to reduce the reading from the SSD when Eclipse on the HDD was used.
 
@@ -43,7 +43,7 @@ I executed the above test 3 times for each installation and took the average tim
 | Installation                        | SSD            | HDD            | Ratio |
 |:----------------------------------- | --------------:| --------------:| -----:|
 | Eclipse Che Development Environment | 1:36&nbsp;mins | 2:21&nbsp;mins | 1.47x |
-| Eclipse for PHP Developers          | 0:40&nbsp;mins | 1:44&nbsp;mins | 2.60x |
+| Eclipse IDE for PHP Developers      | 0:40&nbsp;mins | 1:44&nbsp;mins | 2.60x |
 
 ## Conclusion
 
